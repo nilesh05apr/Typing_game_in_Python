@@ -1,13 +1,3 @@
-# import timeit
-# def read_input():
-# 	global in_str
-# 	in_str = input("Enter your string:")
-# in_str = ""
-# s = timeit.timeit('read_input()',number=1,setup='from __main__ import read_input')
-# print(s)
-# lis = in_str.split()
-# print(len(lis))
-
 import random
 import time
 
